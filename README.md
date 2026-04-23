@@ -15,7 +15,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-ranza_guessing_game = "0.1.1"
+ranza_guessing_game = "0.1.2"
 ```
 
 Or install the binary directly:
