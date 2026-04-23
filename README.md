@@ -38,7 +38,7 @@ Follow the on-screen prompts to enter your guesses.
 
 - **Author:** Naveed Anwar ([ranzatechusa@gmail.com](mailto:ranzatechusa@gmail.com))
 - **Website:** [ranzatech.com](https://ranzatech.com)
-- **Repository:** [://github.com](https://://github.com)
+- **Repository:** [github.com/ranzatechusa/ranza_guessing_game](https://github.com/ranzatechusa/ranza_guessing_game)
 
 ## License
 
