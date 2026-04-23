@@ -6,6 +6,6 @@ description = "A fun game where you guess what number the computer has chosen."
 license = "MIT OR Apache-2.0"
 authors = ["Naveed Anwar <ranzatechusa@gmail.com>"]
 homepage = "https://ranzatech.com"
-repository = "https://github.com"
+repository = "https://github.com/ranzatechusa/ranza_guessing_game"
 
 [dependencies]
